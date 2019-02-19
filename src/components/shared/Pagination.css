@@ -1,0 +1,16 @@
+.pagination {
+  display:flex !important;
+  justify-content:center;
+}
+
+.pagination>li {
+  padding: 0px 8px;
+}
+
+.pagination-active a{
+  color:grey;
+}
+.pagination-active a:hover{
+  text-decoration: none;
+
+}
